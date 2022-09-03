@@ -1,0 +1,62 @@
+body{
+    
+background-image: url(./a6e7468371ba3b3c3dc212b3ef54cd9c.jpg) ;
+color: white;
+font-size:px;
+font-family:'Times New Roman', Times, serif;
+}
+
+#whole{
+    background-color: rgb(48, 39, 48);
+    padding:1px;
+    border:0px;
+    border-radius:10px;
+    margin-right: 950px;
+    margin-left:px;
+    padding-left: 15px;
+    
+}
+
+#prof{
+border:0px;
+background-color:rgba(255, 226, 173, 0.379);
+border-radius:5px;
+padding:5px;
+padding-left:5px;
+margin-right: 440px;
+
+}
+
+#Skill{
+color:;
+background-color:rgba(255, 226, 173, 0.379);
+border-radius:5px;
+padding:5px;
+padding-left:5px;
+margin-right: 460px;
+}
+
+#Interest{
+background-color:rgba(255, 226, 173, 0.379);
+border-radius:5px;
+padding:5px;
+padding-left:5px;
+margin-right: 420px;
+}
+
+#ref{
+ background-color:rgba(255, 226, 173, 0.379);
+border-radius:5px;
+padding:5px;
+padding-left:5px;
+margin-right: 400px;
+}
+
+hr{
+    margin-right: 390px;
+}
+
+#contact{
+
+}
+
